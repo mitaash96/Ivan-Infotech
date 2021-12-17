@@ -1,6 +1,6 @@
 ### URL: http://127.0.0.1:5000/bank_name_city/ABHYUDAYA%20COOPERATIVE%20BANK%20LIMITED/MUMBAI/0/5
 
-##### Results:
+#### Results:
 
 [
 
@@ -56,6 +56,25 @@
     "CITY": "MUMBAI", 
     "DISTRICT": "GREATER MUMBAI", 
     "IFSC": "ABHY0065005", 
+    "STATE": "MAHARASHTRA"
+  }
+  
+]
+
+### URL: http://127.0.0.1:5000/bank_ifsc/ABHY0065006/0/1
+
+#### Results:
+
+[
+
+  {
+    "ADDRESS": "ABHYUDAYA BANK BLDG., 251, PERIN NARIMAN STREET, FORT, MUMBAI-400001", 
+    "BANK_ID": 60, 
+    "BANK_NAME": "ABHYUDAYA COOPERATIVE BANK LIMITED", 
+    "BRANCH": "FORT", 
+    "CITY": "MUMBAI", 
+    "DISTRICT": "GREATER MUMBAI", 
+    "IFSC": "ABHY0065006", 
     "STATE": "MAHARASHTRA"
   }
   
