@@ -12,7 +12,7 @@ each API should support limit & offset parameters
 
 APIs should be authenticated using a JWT key, with validity = 5 days
 
-# IDE: VSCODE
+# IDE: Visual Studio Code
 
 # RDBMS: MYSQL 8.0CE
 
