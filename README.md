@@ -18,5 +18,6 @@
 2. IvanInfotech API - Jupyter Notebook export
 3. BankIFSC Results1,2 - 1st feature of API, results as screenshot
 4. BankNameCity - 2nd feature of API, results as screenshot
+5. Results.md - Results in text
 
 ## Data link: https://github.com/snarayanank2/indian_banks
