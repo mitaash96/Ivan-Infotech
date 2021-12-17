@@ -1,6 +1,6 @@
 # Ivan-Infotech assignment:
 
-Tasks:
+## Tasks:
 
 1. Use PostgreSQL/MySQL as a backend database (you can get the data from indian_banks)
 2. GET API to fetch a bank details, given branch IFSC code
@@ -8,11 +8,11 @@ Tasks:
 4. each API should support limit & offset parameters
 5. APIs should be authenticated using a JWT key, with validity = 5 days
 
-# IDE: Visual Studio Code
+## IDE: Visual Studio Code
 
-# RDBMS: MYSQL 8.0CE
+## RDBMS: MYSQL 8.0CE
 
-# Files:
+## Files:
 
 1. app.py
 2. IvanInfotech API - Jupyter Notebook export
